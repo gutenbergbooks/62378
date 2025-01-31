@@ -3212,7 +3212,7 @@ Ice was all about us. The first object that dawn revealed, whilst I
 stood in the companion-way watching, was a mountain of ice on the bow;
 as features of it stole out a snow-squall looked to have fouled a whole
 stack of pinnacles on the left of the berg; it was dark as smoke there,
-with snow whirling in a very maelstr{~INVALID CHARACTER 111 434BE0Hyf froth-like whiteness; the
+with snow whirling in a very maelstrom of froth-like whiteness; the
 seas slipped their foam up its side to a height of fifty feet, and the
 brine flashed in clouds of crystals against the dull, marble-like face,
 which showed smooth as a wall through the haze and the whirl of flying
@@ -4111,8 +4111,8 @@ asked.
 
 Mr. Hobbs pulled open a drawer, and read aloud a copy of an entry in
 the log-book of the 'Planter' in which the meeting with the long-boat
-was minuted. The situation as there stated was Latitude 58{~INVALID CHARACTER 176 434BE0Hy 45{~INVALID CHARACTER 180 434BE0Hy S.,
-Longitude 45{~INVALID CHARACTER 176 434BE0Hy 10{~INVALID CHARACTER 180 434BE0Hy W. This copy of the logbook entry had been handed by
+was minuted. The situation as there stated was Latitude 58 degrees 45' S.,
+Longitude 45 degrees 10' W. This copy of the logbook entry had been handed by
 Captain Parry of the 'Planter' to the master of the ship to whom the
 crew had been transferred.
 
@@ -4299,7 +4299,7 @@ End of Project Gutenberg's Heart of Oak, vol. 2 of 3, by William Clark Russell
 
 *** END OF THIS PROJECT GUTENBERG EBOOK HEART OF OAK, VOL. 2 OF 3 ***
 
-***** This file should be named 62378.txt or 62378.zip *****
+***** This file should be named 62378-0.txt or 62378-0.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/6/2/3/7/62378/
 

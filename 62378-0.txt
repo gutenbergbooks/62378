@@ -3212,7 +3212,7 @@ Ice was all about us. The first object that dawn revealed, whilst I
 stood in the companion-way watching, was a mountain of ice on the bow;
 as features of it stole out a snow-squall looked to have fouled a whole
 stack of pinnacles on the left of the berg; it was dark as smoke there,
-with snow whirling in a very maelström of froth-like whiteness; the
+with snow whirling in a very maelstrom of froth-like whiteness; the
 seas slipped their foam up its side to a height of fifty feet, and the
 brine flashed in clouds of crystals against the dull, marble-like face,
 which showed smooth as a wall through the haze and the whirl of flying
@@ -4111,8 +4111,8 @@ asked.
 
 Mr. Hobbs pulled open a drawer, and read aloud a copy of an entry in
 the log-book of the 'Planter' in which the meeting with the long-boat
-was minuted. The situation as there stated was Latitude 58° 45´ S.,
-Longitude 45° 10´ W. This copy of the logbook entry had been handed by
+was minuted. The situation as there stated was Latitude 58Â° 45' S.,
+Longitude 45Â° 10' W. This copy of the logbook entry had been handed by
 Captain Parry of the 'Planter' to the master of the ship to whom the
 crew had been transferred.
 
